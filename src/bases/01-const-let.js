@@ -1,11 +1,11 @@
 
-const nombre = 'Dan'
-const apellido = 'Hartigan'
+const nombre = 'Prieto'
+const apellido = 'Kun'
 
 console.log(nombre,apellido);
 
 if (true){
-    let nombre = 'Peter'
+    let nombre = 'Gato'
     console.log(nombre);
 }
 

@@ -1,12 +1,12 @@
 const nombre = 'Nico'
 const apellido = 'Ni'
 
-const nombreCompleto =  `${ nombre } ${ apellido }`
+// const nombreCompleto =  `${ nombre } ${ apellido }`
 
-console.log(`Resultado: ${1+3}`);
+// console.log(`Resultado: ${1+3}`);
 
-function getSaludo( nombre ){
-    return 'Hola ' + nombre
+function getSaludo( nombresito ){
+    return 'Hola ' + nombresito
 }
 
-console.log(`Este es un texto: ${getSaludo(nombre)}`);
+console.log(`Este es un texto: ${getSaludo(apellido)}`);
